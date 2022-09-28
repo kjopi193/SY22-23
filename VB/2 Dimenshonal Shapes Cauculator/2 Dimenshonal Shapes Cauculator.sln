@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2 Dimenshonal Shapes Cauculator", "2 Dimenshonal Shapes Cauculator\2 Dimenshonal Shapes Cauculator.vbproj", "{9EE0D000-6CFD-43A4-A6C9-AE1868F56C73}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.vbproj", "{50D0DA7E-BB3D-4599-8339-A24371ECB813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EE0D000-6CFD-43A4-A6C9-AE1868F56C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE0D000-6CFD-43A4-A6C9-AE1868F56C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE0D000-6CFD-43A4-A6C9-AE1868F56C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE0D000-6CFD-43A4-A6C9-AE1868F56C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D0DA7E-BB3D-4599-8339-A24371ECB813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D0DA7E-BB3D-4599-8339-A24371ECB813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D0DA7E-BB3D-4599-8339-A24371ECB813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D0DA7E-BB3D-4599-8339-A24371ECB813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655A3749-BB98-4584-9CA9-15F23107EAE6}
+	EndGlobalSection
+EndGlobal

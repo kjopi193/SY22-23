@@ -1,0 +1,13 @@
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\bin\Debug\debug projectt part 2.exe.config
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\bin\Debug\debug projectt part 2.exe
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\bin\Debug\debug projectt part 2.pdb
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\bin\Debug\debug projectt part 2.xml
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\obj\Debug\debug projectt part 2.vbproj.AssemblyReference.cache
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\obj\Debug\debug projectt part 2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\obj\Debug\debug_projectt_part_2.Form1.resources
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\obj\Debug\debug_projectt_part_2.Resources.resources
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\obj\Debug\debug projectt part 2.vbproj.GenerateResource.cache
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\obj\Debug\debug projectt part 2.vbproj.CoreCompileInputs.cache
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\obj\Debug\debug projectt part 2.exe
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\obj\Debug\debug projectt part 2.xml
+C:\Users\kjopi193\Documents\SY22-23\VB\debug projectt part 2\debug projectt part 2\obj\Debug\debug projectt part 2.pdb

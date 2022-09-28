@@ -1,0 +1,13 @@
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\bin\Debug\Cawa z de Jungle.exe.config
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\bin\Debug\Cawa z de Jungle.exe
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\bin\Debug\Cawa z de Jungle.pdb
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\bin\Debug\Cawa z de Jungle.xml
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\obj\Debug\Cawa z de Jungle.vbproj.AssemblyReference.cache
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\obj\Debug\Cawa z de Jungle.vbproj.SuggestedBindingRedirects.cache
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\obj\Debug\Cawa_z_de_Jungle.Form1.resources
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\obj\Debug\Cawa_z_de_Jungle.Resources.resources
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\obj\Debug\Cawa z de Jungle.vbproj.GenerateResource.cache
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\obj\Debug\Cawa z de Jungle.vbproj.CoreCompileInputs.cache
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\obj\Debug\Cawa z de Jungle.exe
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\obj\Debug\Cawa z de Jungle.xml
+C:\Users\kjopi193\Documents\SY22-23\VB\Cawa z de Jungle\Cawa z de Jungle\obj\Debug\Cawa z de Jungle.pdb

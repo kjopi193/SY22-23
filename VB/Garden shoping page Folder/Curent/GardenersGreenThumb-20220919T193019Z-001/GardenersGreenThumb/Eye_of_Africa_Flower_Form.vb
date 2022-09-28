@@ -1,0 +1,5 @@
+﻿Public Class Eye_of_Africa_Flower_Form
+    Private Sub Eye_of_Africa_Flower_Form_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Eye_of_Africa_Flower_Info_Box.Text = "African daisies (Osteospermum spp.) look a lot like common daisies, with petals radiating around a center disk. They are even members of the Asteraceae family, along with Shasta daisies and zinnias. But their vivid coloring is not at all like the classic daisy. In fact, when African daisies were first introduced to the market, some people thought they must have been dyed. The center disks of the flowers even can look like they're colored with metallic paint. Petals may be smooth and flat like a typical daisy, or radiate out in a tubular spoon shape. The leaves vary by variety; they can be lance-like or broadly ovate and smooth, toothed, or lobed."
+    End Sub
+End Class
